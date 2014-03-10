@@ -5,7 +5,16 @@ object of the 'Coding Cow'!  You will learn
 our top secret mission and how to control
 the universe!
 
-Don't you believe me?
+```
+ ______________________
+< Dont you Believe me? >
+ ----------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
 ## Install
 
